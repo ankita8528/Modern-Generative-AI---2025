@@ -15,5 +15,7 @@ A system that can generate new data based on training sample (similar as the inp
 ---
 
 ### What is LLM?
-LLM stands for Large Language Model (Generative Language Model) that generates text. Examples of LLMs - ChatGPT, Google Gemini, Meta Llama, DeepSeek, Claude etc. Similar to a Machine Learning model, we need to train an LLM also and for that we need to provide huge amount of sequential (text based) data. After the LLM gets trained on the data we can ask the LLM to generate any kind of text, and the "ask" thing is nothing but "Prompt".
+LLM stands for Large Language Model (Generative Language Model) that generates text. Examples of LLMs - ChatGPT, Google Gemini, Meta Llama, DeepSeek, Claude etc.
+Similar to a Machine Learning model, we need to train an LLM also and for that we need to provide huge amount of sequential (text based) data. After the LLM gets trained on the data we can ask the LLM to generate any kind of text, and the "ask" thing is nothing but "Prompt".
+
 So, now that we have read the basic required things, we can proceed with the first building block of Generative AI - Prompt Engineering.
