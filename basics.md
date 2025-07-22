@@ -23,51 +23,51 @@ Similar to a Machine Learning models like linear regression, xgboost,etc., we ne
 ### What is Prompt?
 
 In the world of LLMs, a **Prompt** is the input or instruction you provide to guide the model’s response.
-> Think of it as "asking the model a question" — and how well you ask determines how good the answer will be.
+Think of it as "asking the model a question" — and how well you ask determines how good the answer will be.
 Here's an example of how important is prompt and how it can change a model's (LLM's) output.
 > Prompt1 - What is generative ai?
-> ChatGPT's response - Generative AI (Generative Artificial Intelligence) refers to a class of AI models designed to generate new content — such as text, images, audio, video, or code — that mimics human creativity. These models learn patterns from existing data and use that knowledge to produce original outputs.
-
-🔍 In Simple Terms:
-Generative AI can create things, not just analyze or classify them.
-It answers prompts like:
-
-“Write me a poem.”
-
-“Generate a photo of a sunset in Tokyo.”
-
-“Create a voiceover in Morgan Freeman's style.”
-
-🧠 How It Works:
-Generative AI models are typically based on:
-
-Large Language Models (LLMs) like GPT, which generate human-like text.
-
-Diffusion Models (e.g., used in DALL·E, Midjourney) for image generation.
-
-Transformers, a neural network architecture that revolutionized generative tasks.
-
-They are trained on huge datasets from books, code, images, internet content, etc.
-
-📌 Popular Applications:
-Type	Example Tools	What It Creates
-Text	ChatGPT, Claude, Gemini	Emails, articles, stories, code
-Image	DALL·E, Midjourney, Stable Diffusion	Art, designs, product images
-Audio	ElevenLabs, Voicemod	Synthetic voices, music
-Video	Sora (OpenAI), Runway	Short films, animations
-Code	GitHub Copilot	Auto-generated code
-
-💡 Use Cases:
-Content creation (blogs, marketing)
-
-Customer service chatbots
-
-Virtual assistants
-
-Game design
-
-Personalized education
-
+> ChatGPT's response - Generative AI (Generative Artificial Intelligence) refers to a class of AI models designed to generate new content — such as text, images, audio, >video, or code — that mimics human creativity. These models learn patterns from existing data and use that knowledge to produce original outputs.
+>
+> 🔍 In Simple Terms:
+> Generative AI can create things, not just analyze or classify them.
+> It answers prompts like:
+>
+> “Write me a poem.”
+>
+> “Generate a photo of a sunset in Tokyo.”
+>
+> “Create a voiceover in Morgan Freeman's style.”
+> 
+> 🧠 How It Works:
+> Generative AI models are typically based on:
+>
+> Large Language Models (LLMs) like GPT, which generate human-like text.
+>
+> Diffusion Models (e.g., used in DALL·E, Midjourney) for image generation.
+>
+> Transformers, a neural network architecture that revolutionized generative tasks.
+>
+> They are trained on huge datasets from books, code, images, internet content, etc.
+>
+> 📌 Popular Applications:
+> Type	Example Tools	What It Creates
+> Text	ChatGPT, Claude, Gemini	Emails, articles, stories, code
+> Image	DALL·E, Midjourney, Stable Diffusion	Art, designs, product images
+> Audio	ElevenLabs, Voicemod	Synthetic voices, music
+> Video	Sora (OpenAI), Runway	Short films, animations
+> Code	GitHub Copilot	Auto-generated code
+> 
+> 💡 Use Cases:
+> Content creation (blogs, marketing)
+>
+> Customer service chatbots
+>
+> Virtual assistants
+>
+> Game design
+>
+> Personalized education
+>
 Drug discovery
 
 Simulation and prototyping
