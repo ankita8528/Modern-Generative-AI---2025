@@ -1,5 +1,4 @@
 # Generative AI — Basic Introduction
-
 Before diving into the building blocks of Generative AI, it's important to establish a strong foundation — especially for those who are new to the field or coming from a Machine Learning background.
 
 This document covers the key concepts you need to understand before jumping into advanced topics like Prompt Engineering, RAG, Agents, and Fine-Tuning.
@@ -21,7 +20,7 @@ Similar to a Machine Learning models like linear regression, xgboost,etc., we ne
 
 ---
 
-##  What is a Prompt?
+###  What is a Prompt?
 In the world of LLMs (Large Language Models), a **Prompt** is the input or instruction you provide to guide the model’s response.
 
 Think of it as **"asking the model a question"** — and how well you ask determines how good the answer will be.
