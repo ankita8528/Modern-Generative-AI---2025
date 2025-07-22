@@ -22,15 +22,12 @@ Similar to a Machine Learning models like linear regression, xgboost,etc., we ne
 ---
 
 ##  What is a Prompt?
-
 In the world of LLMs (Large Language Models), a **Prompt** is the input or instruction you provide to guide the model’s response.
 
 Think of it as **"asking the model a question"** — and how well you ask determines how good the answer will be.
 
----
 
-## Why Prompts Matter and is the Heart of Generative AI?
-
+### Why Prompts Matter and is the Heart of Generative AI?
 A small change in your prompt can significantly affect the model's output.
 
 ### 🔁 Example:
