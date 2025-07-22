@@ -8,7 +8,6 @@ This document covers the key concepts you need to understand before jumping into
 
 ### What is Generative AI?
 A system that can generate new data based on training sample (similar as the input/independent features in Machine Learning). Generative models can generate image, text, audio, video, etc. data as output.
-<img width="637" height="584" alt="image" src="https://github.com/user-attachments/assets/8467b2bd-eb98-4b31-b7e3-907b4470aa74" />
 
 #### Key Types:
 - **Generative Image Models** – Generate realistic or artistic images.
@@ -22,7 +21,7 @@ Similar to a Machine Learning models like linear regression, xgboost,etc., we ne
 
 ---
 
-## 📌 What is a Prompt?
+##  What is a Prompt?
 
 In the world of LLMs (Large Language Models), a **Prompt** is the input or instruction you provide to guide the model’s response.
 
@@ -30,7 +29,7 @@ Think of it as **"asking the model a question"** — and how well you ask determ
 
 ---
 
-## 🎯 Why Prompts Matter
+## Why Prompts Matter and is the Heart of Generative AI?
 
 A small change in your prompt can significantly affect the model's output.
 
@@ -42,58 +41,61 @@ A small change in your prompt can significantly affect the model's output.
 **ChatGPT's Response:**
 > Generative AI (Generative Artificial Intelligence) refers to a class of AI models designed to generate new content — such as text, images, audio, video, or code — that mimics human creativity. These models learn patterns from existing data and use that knowledge to produce original outputs.
 
- 🔍 In Simple Terms:
- Generative AI can create things, not just analyze or classify them.
- It answers prompts like:
+ > 🔍 In Simple Terms:
+ > Generative AI can create things, not just analyze or classify them.
+ > It answers prompts like:
  
- “Write me a poem.”
+ > “Write me a poem.”
 
- “Generate a photo of a sunset in Tokyo.”
+ > “Generate a photo of a sunset in Tokyo.”
 
- “Create a voiceover in Morgan Freeman's style.”
+ > “Create a voiceover in Morgan Freeman's style.”
  
- 🧠 How It Works:
- Generative AI models are typically based on:
+ > 🧠 How It Works:
+ > Generative AI models are typically based on:
 
- Large Language Models (LLMs) like GPT, which generate human-like text.
+ > Large Language Models (LLMs) like GPT, which generate human-like text.
 
- Diffusion Models (e.g., used in DALL·E, Midjourney) for image generation.
+ > Diffusion Models (e.g., used in DALL·E, Midjourney) for image generation.
 
- Transformers, a neural network architecture that revolutionized generative tasks.
+ > Transformers, a neural network architecture that revolutionized generative tasks.
 
- They are trained on huge datasets from books, code, images, internet content, etc.
+ > They are trained on huge datasets from books, code, images, internet content, etc.
 
- 📌 Popular Applications:
- Type	Example Tools	What It Creates
- Text	ChatGPT, Claude, Gemini	Emails, articles, stories, code
- Image	DALL·E, Midjourney, Stable Diffusion	Art, designs, product images
- Audio	ElevenLabs, Voicemod	Synthetic voices, music
- Video	Sora (OpenAI), Runway	Short films, animations
- Code	GitHub Copilot	Auto-generated code
+> ## 📌 Popular Applications:
+
+> | Type  | Example Tools                          | What It Creates                     |
+> |-------|----------------------------------------|--------------------------------------|
+> | Text  | ChatGPT, Claude, Gemini                | Emails, articles, stories, code     |
+> | Image | DALL·E, Midjourney, Stable Diffusion   | Art, designs, product images        |
+> | Audio | ElevenLabs, Voicemod                   | Synthetic voices, music             |
+> | Video | Sora (OpenAI), Runway                  | Short films, animations             |
+> | Code  | GitHub Copilot                         | Auto-generated code                 |
+
  
- 💡 Use Cases:
- Content creation (blogs, marketing)
+ > 💡 Use Cases:
+ > Content creation (blogs, marketing)
 
- Customer service chatbots
+ > Customer service chatbots
 
- Virtual assistants
+ > Virtual assistants
 
- Game design
+ > Game design
 
- Personalized education
+ > Personalized education
 
-Drug discovery
+> Drug discovery
 
-Simulation and prototyping
+> Simulation and prototyping
 
-⚠️ Risks & Challenges:
-Misinformation (deepfakes, fake news)
+> ⚠️ Risks & Challenges:
+> Misinformation (deepfakes, fake news)
 
-Copyright concerns
+> Copyright concerns
 
-Bias in generated content
+> Bias in generated content
 
-Ethical use and accountability
+> Ethical use and accountability
 #### 👉 Prompt 2:
 **Explain what is generative AI in a layman's language in less than 100 words.**
 
